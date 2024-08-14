@@ -7,9 +7,9 @@ function draw() {
 stroke("blue");
 fill("black");
 
-  //console. log(mousseIsPressed)
+  //console. log(mousseIspressed)
 
-if (mouseIspressed) {
+if (mouseIsPressed) {
 rect(mouseX, mouseY, 20, 35);
  }
 }
