@@ -1,15 +1,15 @@
 function setup() {
-createCanvas(600, 600);
-background("red");
-  }
+  createCanvas(600, 600);
+  background("red");
+}
 
 function draw() {
-stroke("blue");
-fill("black");
+  stroke("blue");
+  fill("black");
 
-  //console. log(mousseIspressed)
+  // consele. log(mousseIspressed)
 
 if (mouseIsPressed) {
-rect(mouseX, mouseY, 20, 35);
- }
+  rect(mouseX, mouseY, 20, 35);
+   }
 }
