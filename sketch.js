@@ -11,3 +11,5 @@ fill("black");
 
 if (mouseIspressed) {
 rect(mouseX, mouseY, 20, 35);
+ }
+}
